@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+oura_stats.egg-info/
+dist/
+build/
+.oura_state.json
+data/
